@@ -101,6 +101,7 @@ else:
 ```
 ## Sample Input and Output
 
+![Screenshot 2023-06-12 044350](https://github.com/Sanjay22006832/Search-Algorithm/assets/119830477/8ea61e6d-9fad-4aea-b427-f53ea3acb03f)
 
 
 
